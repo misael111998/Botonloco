@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MisLayouts</string>
     <string name="minombre">Misa</string>
+    <string name="textbtn">click</string>
 </resources>
